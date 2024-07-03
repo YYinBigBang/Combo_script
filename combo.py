@@ -1,4 +1,4 @@
-"""Update:2023/04/04"""
+"""Last modified: 2023/04/04"""
 import time
 import random
 import pyautogui
